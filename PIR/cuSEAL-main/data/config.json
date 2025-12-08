@@ -1,0 +1,6 @@
+{
+  "poly_modulus_degree": 8192,
+  "scale_power": 29,
+  "modulus_bit_sizes": [60, 60],
+  "customized_scale_power": 0
+}
